@@ -1,0 +1,30 @@
+h1{
+    color: #008000;
+    text-align: center;
+
+}
+
+.centralizar{
+    
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height:300px;
+    border-width: 4px;
+    border-color: chartreuse;
+    border-style: double;
+    color: black;
+    
+
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+}
+
+span{
+    color: gray;
+}
